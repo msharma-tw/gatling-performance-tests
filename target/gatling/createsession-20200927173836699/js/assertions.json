@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.CreateSession",
+  "simulationId": "createsession",
+  "start": 1601228316699,
+  "description": "",
+  "scenarios": ["Go to homepage"],
+  "assertions": [
+
+  ]
+}
